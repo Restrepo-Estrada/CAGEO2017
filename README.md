@@ -1,0 +1,2 @@
+# Geo-social-media-as-a-proxy-2017-
+The C&amp;G 2017 is a raw dataset of rainfall gauges, streamflow and tweets that are openly available in CSV format. This dataset was published in the Computers &amp; Geosciences through the paper `Geo-social media as a proxy for hydrometeorological data for streamflow estimation and to improve flood monitoring`. See [https://doi.org/10.1016/j.cageo.2017.10.010] (https://doi.org/10.1016/j.cageo.2017.10.010)
